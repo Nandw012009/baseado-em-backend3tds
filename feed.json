@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "Autor": "Ana Dev",
+        "Texto": "Termienei meu primeiro projeto em js. 👻",
+        "publicado": true,
+        "data": "30/06/2026",
+        "metricas": {
+            "curtidas": 42,
+            "compartilhamento": 8,
+            "visualizacoes": 310
+        }
+    }
+]
